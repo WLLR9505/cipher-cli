@@ -1,0 +1,29 @@
+{
+  "name": "cipher-cli",
+  "version": "1.0.0",
+  "description": "Command Line Interface to cipher-vgnr",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLLR9505/cipher-cli.git"
+  },
+  "keywords": [
+    "vigenere",
+    "code",
+    "cli"
+  ],
+  "author": "Weuller Jr. Souza <weuller9505@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WLLR9505/cipher-cli/issues"
+  },
+  "homepage": "https://github.com/WLLR9505/cipher-cli#readme",
+  "dependencies": {
+    "ciphervgnr": "^1.3.0",
+    "target-menu": "^2.0.1"
+  }
+}
